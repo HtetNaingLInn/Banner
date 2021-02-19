@@ -1,0 +1,13 @@
+
+*{
+    box-sizing: border-box;
+}
+.banner-image{
+    width: 60px;
+}
+.show_date{
+    display: block !important;
+}
+.upload-image{
+    height: 150px;
+}

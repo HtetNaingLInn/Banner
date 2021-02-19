@@ -10,6 +10,6 @@ class Banner extends Model
     use HasFactory;
 
     protected $fillable=[
-        'image','from','to','status'
+        'image','from','to','link','status'
     ];
 }
